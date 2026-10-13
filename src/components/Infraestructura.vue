@@ -6,7 +6,7 @@
         <span class="kick"><b>07</b>La infraestructura</span>
         <h2 id="h7i" class="T">
           La tecnología no reemplaza a las personas.
-          <span class="g">Multiplica su capacidad.</span>
+          <span class="g">Facilita la creación y distribución de contenido.</span>
         </h2>
       </div>
       <div class="tools">
@@ -59,9 +59,10 @@
             </svg>
           </div>
           <h3>Creator AI<span class="tm">™</span></h3>
-          <p class="claim">Convierte conocimiento en activos digitales.</p>
+          <p class="claim">Transforma conocimiento en contenido digital.</p>
           <p>
-            Ayuda al Creador a estructurar su experiencia sin fricción técnica.
+            Ayuda a los Creadores a estructurar sus conocimientos y preparar
+            materiales educativos mediante herramientas digitales.
           </p>
         </article>
         <article class="gcard tool fade d1">
@@ -94,10 +95,11 @@
             </svg>
           </div>
           <h3>Flow AI<span class="tm">™</span></h3>
-          <p class="claim">Acompaña relaciones y entrega valor a escala.</p>
+          <p class="claim">Facilita la distribución de recursos educativos.</p>
           <p>
-            Permite obsequiar microcursos, libros y herramientas creadas por los
-            Creadores, haciendo seguimiento y acompañamiento 24/7.
+            Permite compartir microcursos, libros y herramientas creadas por
+            los Creadores, y organizar el seguimiento de las actividades
+            educativas según las funcionalidades disponibles.
           </p>
         </article>
         <article class="gcard tool fade d2">
@@ -120,8 +122,11 @@
             </svg>
           </div>
           <h3>LeaderPro AI<span class="tm">™</span></h3>
-          <p class="claim">Multiplica la capacidad del Constructor.</p>
-          <p>Apoya la guía, el soporte y la duplicación de lo que funciona.</p>
+          <p class="claim">Herramientas digitales para organizar la gestión.</p>
+          <p>
+            Facilita la coordinación de actividades, la documentación de
+            procedimientos y la gestión del soporte dentro de la plataforma.
+          </p>
         </article>
       </div>
     </div>

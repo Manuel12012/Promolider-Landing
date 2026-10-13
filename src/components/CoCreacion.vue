@@ -9,30 +9,33 @@
       <div class="head">
         <span class="kick"><b>08</b>Co-creación</span>
         <h2 id="h8c" class="T">
-          No buscamos usuarios. <strong>Buscamos constructores.</strong>
+          Una plataforma educativa. <strong>Desarrollada con sus creadores.</strong>
         </h2>
         <p class="P fade">
-          Esta etapa no consiste en utilizar un modelo que ya está terminado.
-          <b>Consiste en participar en su desarrollo.</b>
+          Esta etapa permite colaborar en la mejora de las herramientas y
+          funcionalidades de la plataforma.
+          <b>El objetivo es construir una mejor experiencia educativa.</b>
         </p>
       </div>
       <p class="words" id="words">
-        No vienes a recibir un sistema terminado. Vienes a participar en la
-        construcción del sistema que otros utilizarán después.
+        Participa en la evaluación de las herramientas, aporta sugerencias
+        y contribuye a mejorar la experiencia de quienes crean y consumen
+        contenido educativo.
       </p>
       <div class="two">
         <div class="gcard fade">
           <p>
             Buscamos personas capaces de aportar
-            <b>experiencia, visión y capacidad de ejecución</b> para probar,
-            mejorar y documentar los mecanismos que permitirán expandir el
-            ecosistema.
+            <b>experiencia, ideas y conocimientos</b> para evaluar,
+            probar y documentar funcionalidades que mejoren la creación
+            y distribución de contenido educativo.
           </p>
         </div>
         <div class="gcard fade d1">
           <p>
-            <b>Tu experiencia no queda fuera del sistema.</b> Entra directamente
-            en su construcción.
+            <b>Tu experiencia contribuye a mejorar la plataforma.</b>
+            Tus observaciones ayudan a identificar oportunidades de mejora
+            en las herramientas y los procesos educativos.
           </p>
         </div>
       </div>

@@ -3,53 +3,64 @@
   <section class="sec dark como" id="como" aria-labelledby="h5c">
     <div class="container">
       <div class="head">
-        <span class="kick"><b>05</b>El cómo</span>
+        <span class="kick"><b>05</b>Cómo funciona</span>
+
         <h2 id="h5c" class="T">
-          ¿Cómo construye un
-          <span class="g"
-            >Independent Ecosystem Builder<span class="tm">™</span></span
-          >?
+          Del conocimiento al producto
+          <span class="g">
+            educativo digital<span class="tm">™</span>
+          </span>
         </h2>
       </div>
+
       <div class="flow" id="flow">
         <div class="fstep">
           <span class="k">01</span>
-          <h3>Descubre</h3>
+          <h3>Identifica</h3>
           <p>
-            Personas con conocimiento valioso, capacidad de liderazgo o
-            necesidades reales por resolver.
+            Define el conocimiento, las habilidades o los temas educativos
+            que deseas convertir en un producto digital.
           </p>
         </div>
+
         <div class="fstep">
           <span class="k">02</span>
-          <h3>Conecta</h3>
-          <p>A Creadores con Consumidores dentro de una misma comunidad.</p>
+          <h3>Crea</h3>
+          <p>
+            Desarrolla cursos, masterclasses y otros materiales educativos
+            dirigidos a un público específico.
+          </p>
         </div>
+
         <div class="fstep">
           <span class="k">03</span>
-          <h3>Desarrolla</h3>
+          <h3>Publica</h3>
           <p>
-            Espacios alrededor de intereses comunes donde el conocimiento pueda
-            circular.
+            Organiza y presenta tus productos educativos mediante los
+            canales y herramientas disponibles en PROMOLIDER.
           </p>
         </div>
+
         <div class="fstep">
           <span class="k">04</span>
-          <h3>Acompaña</h3>
+          <h3>Comercializa</h3>
           <p>
-            Las relaciones utilizando contenido, educación y la infraestructura
-            de PROMOLIDER.
+            Da a conocer tus productos y gestiona su comercialización.
+            Si utilizas afiliación directa, las ventas y comisiones
+            se rigen por las condiciones correspondientes.
           </p>
         </div>
+
         <div class="fstep">
           <span class="k">05</span>
-          <h3>Expande</h3>
+          <h3>Optimiza</h3>
           <p>
-            Los mecanismos que funcionan.
-            <b
-              >Lo que funciona se documenta. Lo que se documenta puede
-              replicarse.</b
-            >
+            Revisa los resultados de tus productos y mejora su presentación,
+            contenido y procesos de comercialización.
+            <b>
+              Evalúa los resultados y ajusta tu estrategia con base
+              en la información disponible.
+            </b>
           </p>
         </div>
       </div>

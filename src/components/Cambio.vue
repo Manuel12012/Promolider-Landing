@@ -4,35 +4,45 @@
     <div class="container">
       <div class="head">
         <div>
-          <span class="kick"><b>03</b>El cambio</span>
+          <span class="kick"><b>03</b>La solución</span>
           <h2 id="h3c" class="T">
-            De generar ventas a construir
-            <span class="g">activos de largo plazo.</span>
+            De crear contenido a desarrollar
+            <span class="g">productos educativos digitales.</span>
           </h2>
         </div>
+
         <p class="P fade">
-          Un Constructor no solo busca cerrar una venta. Busca crear relaciones,
-          integrar talento, desarrollar comunidades y construir mecanismos que
-          puedan seguir generando valor a medida que el ecosistema crece.
+          Crear un curso o una masterclass es el primer paso. También necesitas
+          herramientas para organizar el contenido, presentarlo a potenciales
+          compradores y gestionar su comercialización. Promolider busca
+          facilitar estos procesos mediante una infraestructura digital
+          orientada a la educación y la distribución de productos digitales.
         </p>
       </div>
+
       <div class="pair fade">
         <div class="gcard w">
-          <small>Antes</small>
-          <h3>Generar <strong>ventas.</strong></h3>
+          <small>Creación</small>
+          <h3>Desarrollar <strong>contenido.</strong></h3>
           <div class="meter" aria-hidden="true"></div>
-          <p>Cada acción empieza y termina en sí misma.</p>
+          <p>Preparar cursos, masterclasses y recursos educativos digitales.</p>
         </div>
+
         <div class="gcard b">
-          <small>Ahora</small>
-          <h3>Construir <strong>activos.</strong></h3>
+          <small>Comercialización</small>
+          <h3>Gestionar <strong>productos.</strong></h3>
           <div class="meter" aria-hidden="true"></div>
-          <p>Cada acción deja algo construido que sigue generando valor.</p>
+          <p>
+            Organizar la presentación, distribución y comercialización
+            de productos educativos mediante herramientas digitales.
+          </p>
         </div>
       </div>
+
       <p class="closing fade">
-        La diferencia está en lo que <strong>queda construido</strong> después
-        de cada acción.
+        El objetivo es facilitar la gestión de tus
+        <strong>productos educativos digitales</strong>
+        mediante procesos y herramientas adecuadas.
       </p>
     </div>
   </section>

@@ -12,18 +12,16 @@
               height="36"
           /></a>
           <p>
-            <b
-              >Únete a esta maravillosa oportunidad y conoce personas
-              extraordinarias.</b
-            >
+            <b>
+              Herramientas digitales para crear y distribuir contenido
+              educativo en línea.
+            </b>
           </p>
           <p>
-            Los miembros de nuestra red disfrutan de entrenamientos,
-            capacitación acelerada y apoyo especializado. En Promolíder la
-            consigna es:
-            <i
-              >“Juntos lograremos monetizar tus conocimientos y experiencia”.</i
-            >
+            PROMOLIDER proporciona infraestructura tecnológica para creadores
+            de cursos, formadores y profesionales que desean organizar y
+            compartir sus conocimientos mediante productos educativos
+            digitales.
           </p>
         </div>
         <div>
@@ -31,27 +29,17 @@
           <ul class="flinks">
             <li>
               <a
-                href="https://www.promolider.org/#"
+                href="https://vcr.promolider.org/login"
                 target="_blank"
                 rel="noopener"
                 >Aula virtual</a
               >
             </li>
             <li>
-              <a
-                href="https://www.promolider.org/#"
-                target="_blank"
-                rel="noopener"
-                >Nuestras tecnologías</a
-              >
+              <a href="#infraestructura">Nuestras tecnologías</a>
             </li>
             <li>
-              <a
-                href="https://www.promolider.org/#"
-                target="_blank"
-                rel="noopener"
-                >Sobre nosotros</a
-              >
+              <a href="#inicio">Sobre PROMOLIDER</a>
             </li>
           </ul>
         </div>
@@ -86,8 +74,8 @@
         </div>
         <div>
           <h4>Contáctanos</h4>
-          <a class="mail" href="mailto:información@promolider.org"
-            >información@promolider.org</a
+          <a class="mail" href="mailto:informacion@promolider.org"
+            >informacion@promolider.org</a
           >
           <h4 class="mt">Síguenos</h4>
           <div class="social">
@@ -162,11 +150,40 @@
           </div>
         </div>
       </div>
+
+      <div class="flegal">
+        <p>
+          <b>Promolider LLC</b><br />
+          30 N Gould St, Ste R, Sheridan, WY 82801, USA<br />
+          Email:
+          <a href="mailto:informacion@promolider.org"
+            >informacion@promolider.org</a
+          >
+        </p>
+        <ul class="flinks">
+          <li>
+            <a href="https://www.promolider.org/terms" target="_blank" rel="noopener"
+              >Terms of Service</a
+            >
+          </li>
+          <li>
+            <a href="https://www.promolider.org/privacy" target="_blank" rel="noopener"
+              >Privacy Policy</a
+            >
+          </li>
+          <li>
+            <a href="https://www.promolider.org/refunds" target="_blank" rel="noopener"
+              >Refund Policy</a
+            >
+          </li>
+        </ul>
+      </div>
+
       <div class="fbottom">
-        <span
-          >© <span id="year"></span> PROMOLIDER™. Todos los derechos
-          reservados.</span
-        ><span>Independent Ecosystem Builder™ System</span>
+        <span>
+          © <span id="year"></span> Promolider LLC. All rights reserved.
+        </span>
+        <span>Digital Education & SaaS Platform</span>
       </div>
     </div>
   </footer>

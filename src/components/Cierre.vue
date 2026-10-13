@@ -2,29 +2,30 @@
   <!-- ============ 09 CIERRE (negro) ============ -->
   <section class="sec dark cierre center" id="cierre" aria-labelledby="h9c">
     <div class="container">
-      <span class="kick"><b>09</b>Etapa fundacional</span>
+      <span class="kick"><b>09</b>Conoce la plataforma</span>
       <h2 id="h9c" class="T">
-        No vienes solamente a vender. <span class="g">Vienes a construir.</span>
+        Convierte tus conocimientos en contenido educativo.
+        <span class="g">Descubre las herramientas de PROMOLIDER.</span>
       </h2>
       <p class="P fade">
-        Todo movimiento comienza con personas que deciden participar antes de
-        que el camino esté completamente trazado.
+        PROMOLIDER ofrece herramientas digitales para crear, organizar y
+        distribuir contenido educativo en línea.
       </p>
       <p class="P fade">
-        Quizás llevas años construyendo para otros. Quizás tienes conocimiento,
-        liderazgo o una comunidad. O quizás simplemente sabes que puedes
-        construir algo diferente.
+        Si eres creador de contenido, formador o profesional con experiencia,
+        puedes conocer las funcionalidades de la plataforma y evaluar cómo
+        se adaptan a tus necesidades.
       </p>
-      <p class="opens fade">PROMOLIDER está abriendo su etapa fundacional.</p>
+      <p class="opens fade">Conoce las herramientas y funcionalidades de PROMOLIDER.</p>
       <div class="fade">
         <!-- CTA sin destino por ahora -->
         <a class="cta js-cta" href="#"
-          >Quiero conocer PROMOLIDER™<span class="knob"
+          >Conocer la plataforma PROMOLIDER™<span class="knob"
             ><svg><use href="#chev" /></svg></span
         ></a>
         <p class="micro">
-          Las personas interesadas podrán participar en el proceso de evaluación
-          para la etapa inicial.
+          Consulta las funcionalidades disponibles y las condiciones de uso
+          antes de registrarte.
         </p>
       </div>
     </div>
